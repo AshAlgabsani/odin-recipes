@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Honey Mustard Grilled Chicken</title>
+</head>
+<body>
+    <h1>Honey Mustard Grilled Chicken</h1>
+    <img src="../images/grilledchicken.webp" alt="Honey Mustard Grilled Chicken">
+    
+    <h2>Description</h2>
+    <p>Delicious Honey Mustard Grilled Chicken Recipe (allrecipes.com, 2026). 
+    </p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>⅓ cup Dijon mustard</li>
+        <li>¼ cup honey</li>
+        <li>2 tablespoons mayonnaise</li>
+        <li>1 teaspoon steak sauce</li>
+        <li>4 skinless, boneless chicken breast halves</li>
+    </ul>
+
+    <h2>Steps</h2>
+    <ol>
+        <li>
+           Preheat the grill for medium heat.
+        </li>
+        <li>
+            In a shallow bowl, mix the mustard, honey, mayonnaise, and steak sauce. 
+            Set aside a small amount of the honey mustard sauce for basting, and dip the chicken into the remaining sauce to coat.
+        </li>
+        <li>
+            Lightly oil the grill grate. 
+            Grill chicken over indirect heat for 18 to 20 minutes, turning occasionally, or until juices run clear. 
+            Baste occasionally with the reserved sauce during the last 10 minutes. 
+            Watch carefully to prevent burning!
+        </li>
+    </ol>
+
+    <a href="../index.html" target="_self">Return to Home</a>
+</body>
+</html>
