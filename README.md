@@ -14,6 +14,19 @@ The objective of this project is to build a basic HTML recipe website.
 - Displaying images.
 - Utilizing Git and Github to manage the project. 
 
+### Git Workflow
+
+- Creating repositories.
+- Cloning repositories.
+- Staging changes.
+- Creating commits.
+- Pushing commits to GitHub.
+- Amending commits.
+- Renaming and organizing files.
+- Deploying with GitHub Pages.
+- Fixing broken links.
+- Using `git status` to monitor repository changes.
+
 ## Project Process 
 
 This project is currently in progress and will be expanded as I learn CSS and JavaScript throughout The Odin Project curriculum.
