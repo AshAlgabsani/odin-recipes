@@ -17,3 +17,10 @@ The objective of this project is to build a basic HTML recipe website.
 ## Project Process 
 
 This project is currently in progress and will be expanded as I learn CSS and JavaScript throughout The Odin Project curriculum.
+
+## Technologies Used Thus Far 
+
+- HTML5
+- Git
+- Github
+- VSCode
